@@ -5,7 +5,7 @@ A very simple bot that converts images uploaded with a slash command to grayscal
 ![image](https://github.com/MRajczyk/img-to-ascii-discord-bot/assets/103463343/0ec3f42a-b0c4-4da7-a759-d1e496921f62)
 
 ## DISCLAIMER
-Since figuring out that Discord only supports a maximum of 2000 characters in a single message the project is on hold while I'm debating on the future of the project.<br>
+Since figuring out that Discord only supports a maximum of 2000 characters in a single message the project is on hold while I'm debating on its future.<br>
 <br>
 Atm. only images that have less than 2k pixels in total (ex. 40px * 50px) are properly handled by the bot. <br>
 I haven't yet tested the maximum width that doesn't result in the text not being split to the next line.
