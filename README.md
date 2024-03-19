@@ -10,6 +10,10 @@ Since figuring out that Discord only supports a maximum of 2000 characters in a 
 Atm. only images that have less than 2k pixels in total (ex. 40px * 50px) are properly handled by the bot. <br>
 I haven't yet tested the maximum width that doesn't result in the text not being split to the next line.
 
+## USAGE
+- /ping to test if bot is alive (it should reply with 'pong')
+- /convert (and then choose an attachment)
+
 ## How to install and run project:
 1. Clone the repo
 2. Create **_.env_** file with the following variables appropriate to your Bot Token and Server's guild id:  
